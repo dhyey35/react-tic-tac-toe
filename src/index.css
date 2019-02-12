@@ -57,3 +57,7 @@ li .step-col-row {
 button.current-move {
     font-weight: bold;
 }
+
+button.highlight-square {
+    background: green;
+}
